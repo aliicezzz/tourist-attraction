@@ -12,6 +12,4 @@ Essa aplicação foi desenvolvida durante a trila Full-Stack | Frontend e Backen
 ## :computer: Demonstração
 
 ![Demonstracao](./github/1.png)
-
-
 ![Demonstracao](./github/2.png)
