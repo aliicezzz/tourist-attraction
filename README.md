@@ -4,7 +4,7 @@
 
 ## :rocket: Sobre o projeto
 
-Essa aplicação foi desenvolvida durante a trila Full-Stack | Frontend e Backend da Rocketseat utilizando:
+Essa aplicação foi desenvolvida durante a trilha Full-Stack | Frontend e Backend da Rocketseat utilizando:
 
 - HTML
 - CSS
