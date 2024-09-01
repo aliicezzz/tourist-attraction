@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+ }
+  
+body {
+    font-family: "Open Sans", sans-serif;
+    color: #333333;
+    font-size: 16px;
+    background-color: #F5F4F0;
+}
+  
+#container {
+    width: 100%;
+    max-width: 1120px;
+    margin: 88px auto;
+}
+  
+h1 {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 8px 0 40px;
+}
+  
+h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin: 2px 0 8px;
+}
+  
+h3 {
+    font-size: 28px;
+    font-weight: bold;
+    margin: 20px 0 4px 32px;
+}
+  
+img {
+    width: 100%;
+    border-radius: 28px;
+}
+  
+.headline {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-size: 16px;
+    font-weight: bold;
+}
+  
+.subtitle {
+    font-style: italic;
+    color: #333333;
+    text-align: center;
+    margin-top: 24px;
+}
+  
+.horizontalRule {
+    width: 100%;
+    border-bottom: 1px solid #D9D9D9;
+    margin: 40px 0 64px;
+}
+  
+ol {
+    margin-top: 64px;
+}
+  
+.headlineList {
+    font-weight: bold;
+}
+  
+.blue {
+    margin-left: 20px;
+    color: #0C51A7;
+}
+  
+.purple {
+    margin-left: 20px;
+    color: #591B98;
+}
+  
+.pink {
+    margin-left: 20px;
+    color: #E5245E;
+}
+  
+.orange {
+    margin-left: 20px;
+    color: #E95E10;
+}
+  
+.items {
+    margin-top: 48px;
+}
+  
+.description {
+    text-align: center;
+}
+  
+footer {
+    text-align: center;
+    padding: 64px 0 48px;
+}
+  
+footer img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
